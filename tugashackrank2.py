@@ -1,0 +1,9 @@
+a=int(input())
+b=int(input())
+c=int(input())
+d=a+b+c
+rata_rata=d//3
+if(rata_rata>=50):
+    print("LULUS")
+else:
+    print("GAGAL")
